@@ -1,1 +1,1 @@
-# greeting-card-maker
+# canvas-greetn-boilerplate
